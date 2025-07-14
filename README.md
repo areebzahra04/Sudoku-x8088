@@ -48,6 +48,6 @@ Use simple keyboard commands to interact with the Sudoku grid:
 | **Language**  | (8088 real-mode)                     |
 | **Platform**  | DOS / DOSBox Emulator                |
 | **Assembler** | NASM                                 |
-| **Graphics**  | VGA/Text-mode (INT 10h)              |
+| **Graphics**  | Animations built through hardware level             coding            |
 | **Sound**     | PC Speaker (via OUT to ports)        |
 
