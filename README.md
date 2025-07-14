@@ -30,6 +30,15 @@ Use simple keyboard commands to interact with the Sudoku grid:
 > `r` = row (1–9), `c` = column (1–9), `v` = value (1–9)
 
 ---
+### 🎯 Difficulty Levels
+
+The game offers **3 levels of difficulty**:
+
+- 🟢 **Easy** – Fewer blank cells, ideal for beginners
+- 🟡 **Medium** – Balanced challenge with moderate difficulty
+- 🔴 **Hard** – Minimal starting clues, built for advanced players
+
+At launch, the player selects the difficulty, and the board is initialized accordingly.
 
 ## 🛠️ Features
 
