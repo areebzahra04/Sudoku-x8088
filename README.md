@@ -24,6 +24,7 @@ Use simple keyboard commands to interact with the Sudoku grid:
 | `g r c v` | `g 1 1 5` | Place value `5` at row `1`, column `1` |
 | `e r c` | `e 1 1` | Erase the value at row `1`, column `1` |
 | `n r c v` | `n 2 3 7` | Add a note `7` at row `2`, column `3` |
+| `z` |  | Erase all notes|
 
 
 > `r` = row (1–9), `c` = column (1–9), `v` = value (1–9)
